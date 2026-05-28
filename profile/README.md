@@ -10,7 +10,6 @@ Acreditamos que os livros são os maiores faróis de conhecimento da humanidade 
 
 O sistema é construído sobre uma arquitetura limpa, estável e escalável, utilizando tecnologias consagradas no mercado de desenvolvimento web:
 
-- **JavaScript** (Implementação da lógica de front-end, garantindo uma interface dinâmica, buscas em tempo real e interatividade fluida)
 - **PHP** (Mecanismo central de back-end, responsável pelo processamento de regras de negócio, rotas e a segurança das requisições)
 - **MySQL** (Banco de dados relacional principal, configurado para garantir a integridade, persistência e alta disponibilidade dos dados do catálogo)
 - **SQLite** (Engine de banco de dados leve e autocontida, utilizada para facilitar o ambiente de desenvolvimento local e portabilidade do sistema)
